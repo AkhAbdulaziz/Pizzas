@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="app_name">Pizzas</string>
+
+
+    <string name="neapolitan_pizza_text1">When it comes to pizza, the Neapolitan has to be the first featured, especially given that it was the first type of pizza created. This is the authentic Italian style pizza. \nThis pizza dates back to 1889, when Queen Margherita visited Naples. They had a pizza created especially for them, which contained tomatoes, mozzarella and basil. These three colors represented the Italian flag. This was then called the margherita pizza in her honor.</string>
+    <string name="neapolitan_pizza_text2">Since then, the Neapolitan pizza has remained one of the most popular types of pizza. This is a thin type of pizza that typically features a lot of sauce, and a small amount of cheese. While a margherita traditionally only contains mozzarella and basil, nowadays, you can add any toppings to it. \nIt is one of the best types of pizza you can purchase. If you are looking for a traditional Italian pizza – the Neapolitan is the best option.</string>
+
+
+    <string name="new_york_pizza_text1">New York-Style Pizza became popular at the start of the 1900s, and it has remained a firm favorite, not just in New York, but across the globe too. While it is similar to a Neapolitan in the sense that it is a thin crust pizza, it is typically a lot larger.Typically, rather than eating a whole New York-Style pizza, you purchase it in large slices. This is very common in New York. It is hand tossed and features dry and grated mozzarella, rather than fresh cheese. \nOnce the pizza is cooked, it is split into 8 different slices, ready to be served. The majority of New York-Style Pizzas just contain cheese and tomato without any other toppings.</string>
+    <string name="new_york_pizza_text2">A common way to eat this pizza is to fold it in half, and as this pizza is typically served as fast food, this is the easiest way to eat it. \nAs the slices are so large and thin, they can be troublesome to eat without folding them, though they are deliciously good!</string>
+
+
+    <string name="chicago_pizza_text1">If you enjoy deep pan pizzas, you need to try Chicago pizzas. These pizzas are far different to the traditional Italian styles, and a lot smaller too. \nThis deep dish pizza originates from Chicago in around the 1900s. Since its creation, it has continued to be a popular dish across America. \nAs it is a deep dish pizza, it can be recognized instantly. When thinking about its size and size, it does look as though it resembles a pie, rather than a pizza. However, it still contains the important cheese and pizza sauce.</string>
+    <string name="chicago_pizza_text2">What is interesting about Chicago pizzas is that the cheese is placed on the dough first, followed by the pizza sauce, and then the toppings. \nWhen it comes to traditional toppings, Chicago pizza has a lot more topping in comparison to other styles. Typically, they will contain sausage, ground beef, pepperoni, mushrooms, green peppers, and onion. \nIf you have not tried this before, we would highly recommend it, it is full of flavor, and is such a satisfying dish.</string>
+
+
+    <string name="greek_pizza_text1">At first glance you may look at Greek pizza and assume that it is the same as Italian pizza. While they may contain many of the same ingredients, Greek pizza is cooked differently in comparison to the majority of other pizzas. \nWith many other pizzas, you would place them on a pan once the pizza has been created to cook.</string>
+    <string name="greek_pizza_text2">Once a Greek pizza has been created, the pizza is placed in a pizza dish and is then covered in oil before it is cooked. This allows the pizza to have a larger and thicker crust in comparison to other types of thin pizza. \nGreek pizza was first introduced to the United States in areas such as New York and New England. While it is not the most popular pizza, it is so tasty.</string>
+
+
+    <string name="sicilian_pizza_text1">While you may assume that Sicilian pizza is similar to the Neapolitan pizza because they both derive from Italy, they have some significant differences. Sicily is an Island off the coast of mainland Italy, and the pizza they created was often served in bakeries.
+\nInstead of having the quintessential round pizza shape, Sicilian pizza is rectangular.</string>
+    <string name="sicilian_pizza_text2">While it is a thick style pizza, it has a thicker crust than Neapolitan, and it is usually crispier too.
+\nWhen it comes to its taste it does resemble bread more than pizza. While it may not be the most popular option, it makes for such a tasty snack!</string>
+
+
+    <string name="louis_pizza_text1">The St. Louis pizza is another pizza that is particularly thin. However, it is a lot crunchier in comparison to New York-Style pizza. Its consistency resembles that of a cracker, rather than a soft pizza.
+\nUnlike other types of pizza that you would eat whole, a St. Louis pizza is usually cut into small rectangles. Like the Sicilian pizza, it does not have the traditional round pizza shape.</string>
+    <string name="louis_pizza_text2">What is interesting about this style of pizza is that it is not cooked with yeast like the majority of other pizzas are. This is what gives it its crunchy texture. It is certainly reminiscent of the Sicilian pizza, and was made popular in the 19th century.</string>
+
+
+    <string name="detroit_pizza_text1">Detroit pizza is another firm favorite with those that enjoy thicker pizzas. If you love cheesy pizzas, it does not get much better than a Detroit. Again, this pizza does not have the typical circular shape, and it is cooked in a rectangular pan.
+\nThis type of pizza has a thick crust that in some ways does resemble the Chicago pizza. However, the base of the pizza is more crunchy, due to it being pan fried. </string>
+    <string name="detroit_pizza_text2">While the crust and the base are crunchy, the same cannot be said for the middle of the pizza, which is light and soft. The traditional toppings include small pieces of pepperoni, a cheese covered crust, and thick cheese that covers the pizza. It is oozing with flavor, and the cheese is often topped with extra pizza sauce too. </string>
+
+
+    <string name="california_pizza_text1">Another type of pizza that is typically served as a slice, rather than as a whole pizza is the\nCalifornia-style. This type of pizza is similar to both the Neapolitan and the New York-style.\nIt has a thin crust, and a thin base.\nIt was made popular in the late 1980s and is one of the newest pizzas featured on our list.\nHowever, it is just as tasty. When it comes to the toppings, it is far more adventurous in
+    comparison to some other traditional flavors featured.</string>
+    <string name="california_pizza_text2">Typically, it contains toppings such as bacon, egg, goats cheese, pepperoni, and vegetables.\nWhile it may not be to everyone’s tastes, we would certainly recommend trying this traditional
+    pizza.</string>
+
+
+    <string name="roman_pizza_text1">While I was in Rome, I couldn’t resist trying the famous Roman style pizza from Pizzarium. What’s different about this type of pizza is that it has a very thick crust which resembles focaccia and it’s typically cut into square slices, measured by weight and eaten with your hands. Also known as Pizza Al Taglio, or pizza by the slice.</string>
+    <string name="roman_pizza_text2">The ingredients are simple and fresh, but my favorite part about eating this type of pizza is the dough – it’s so good!</string>
+
+
+    <string name="calzone_pizza_text1">The final type of pizza we are going to discuss is the calzone. While it can technically not be seen as a type of pizza, we think that it counts.
+\nIf you are unfamiliar with a calzone, it is essentially a pizza that is folded before it is baked.\nIt was created in the 18th Century in Naples, and is a traditional Italian dish. The original toppings inside the calzone would be salami, ham, Parmesan, mozzarella, and ricotta.</string>
+    <string name="calzone_pizza_text2">It is full of flavor, and while it is a folded pizza, it is not overly thick. Sometimes it can contain vegetables too.
+\nIt is a delicious alternative to a standard pizza, though it may require the use of a knife and fork to eat it. If you have not tried one before – you definitely need to!</string>
+
+    <string name="TextAboutApplication">Pizza is one of the most popular food in the world. So we thought we all needed a program that would provide information about this dish.
+So far, the program includes information and pictures about pizzas from different countries.</string>
+</resources>
